@@ -1,6 +1,8 @@
 # paripoorna
 
 npm install 
+
+
 npm install -g json-server
 
 #open terminal 1 :
