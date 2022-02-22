@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "stuname": "sunitha",
+      "email": "jobnatti@gmail.com",
+      "mobile": "861045338",
+      "id": 2
+    },
+    {
+      "stuname": "nadarajan",
+      "email": "jobnatti@gmail.com",
+      "mobile": "8610453387",
+      "id": 3
+    },
+    {
+      "stuname": "nadarajanhari",
+      "email": "jobnatti@gmail.com",
+      "mobile": "8610453387",
+      "id": 4
+    }
+  ]
+}
